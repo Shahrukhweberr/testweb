@@ -2,7 +2,7 @@
 $pageTitle = "AquaWorld Aquarium";
 include 'includes/header.php';
 ?>
-<section class="hero">
+<section class="hero hero-image">
   <div class="hero-content">
     <p class="eyebrow">DISCOVER THE UNDERWATER WORLD</p>
     <h1>Life beneath the surface is waiting.</h1>
