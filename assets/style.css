@@ -487,7 +487,7 @@ nav a.active {
 .hero-image {
   position: relative;
   isolation: isolate;
-  background-image: linear-gradient(90deg, rgba(2, 24, 39, 0.82), rgba(2, 24, 39, 0.4) 58%, rgba(2, 24, 39, 0.15)), url('banners/home.svg');
+  background-image: linear-gradient(90deg, rgba(2, 24, 39, 0.82), rgba(2, 24, 39, 0.4) 58%, rgba(2, 24, 39, 0.15)), url('banners/aquarium-home.webp');
   background-size: cover;
   background-position: center;
 }
