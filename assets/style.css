@@ -540,11 +540,11 @@ nav a.active {
 }
 
 .page-hero-tickets {
-  background-image: url('https://lirp.cdn-website.com/abd933cd/dms3rep/multi/opt/Aquirium-640w.jpg');
+  background-image: url('banners/tickets.svg');
 }
 
 .page-hero-conservation {
-  background-image: url('https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/QKJWLKGCJYI6FKLBA7S5GXJE34.jpg');
+  background-image: url('banners/conservation.svg');
 }
 
 .page-hero-gallery {
