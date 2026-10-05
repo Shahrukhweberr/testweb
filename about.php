@@ -1,5 +1,5 @@
 <?php $pageTitle="About Us"; include 'includes/header.php'; ?>
-<section class="page-hero"><p class="eyebrow">OUR STORY</p><h1>More than an aquarium.</h1><p>AquaWorld was created to help people experience the wonder of the ocean while inspiring them to protect it.</p></section>
+<section class="page-hero page-hero-about"><p class="eyebrow">OUR STORY</p><h1>More than an aquarium.</h1><p>AquaWorld was created to help people experience the wonder of the ocean while inspiring them to protect it.</p></section>
 <section class="section two-col">
   <div>
     <p class="eyebrow">WHO WE ARE</p>
