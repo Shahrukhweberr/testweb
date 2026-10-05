@@ -1,5 +1,5 @@
 <?php $pageTitle="Conservation"; include 'includes/header.php'; ?>
-<section class="page-hero"><p class="eyebrow">OCEAN ACTION</p><h1>Conservation starts here.</h1><p>Our aquarium connects guests with practical action for healthier oceans.</p></section>
+<section class="page-hero page-hero-conservation"><p class="eyebrow">OCEAN ACTION</p><h1>Conservation starts here.</h1><p>Our aquarium connects guests with practical action for healthier oceans.</p></section>
 <section class="section grid">
   <article class="feature"><h3>Rescue & Rehabilitation</h3><p>Supporting care for injured marine animals and returning healthy individuals to the wild.</p></article>
   <article class="feature"><h3>Ocean Research</h3><p>Funding field studies and sharing knowledge about marine habitats and species.</p></article>
