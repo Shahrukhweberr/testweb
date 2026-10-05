@@ -487,8 +487,7 @@ nav a.active {
 .hero-image {
   position: relative;
   isolation: isolate;
-  background-image: linear-gradient(90deg, rgba(2, 24, 39, 0.82), rgba(2, 24, 39, 0.4) 58%, rgba(2, 24, 39, 0.15)),
-    url('https://lirp.cdn-website.com/abd933cd/dms3rep/multi/opt/Aquirium-640w.jpg');
+  background-image: linear-gradient(90deg, rgba(2, 24, 39, 0.82), rgba(2, 24, 39, 0.4) 58%, rgba(2, 24, 39, 0.15)), url('banners/home.svg');
   background-size: cover;
   background-position: center;
 }
@@ -525,19 +524,19 @@ nav a.active {
 }
 
 .page-hero-about {
-  background-image: url('https://lirp.cdn-website.com/abd933cd/dms3rep/multi/opt/Aquirium-640w.jpg');
+  background-image: url('banners/about.svg');
 }
 
 .page-hero-animals {
-  background-image: url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Shark_in_an_Underwater_Habitat.jpg');
+  background-image: url('banners/animals.svg');
 }
 
 .page-hero-exhibits {
-  background-image: url('https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/QKJWLKGCJYI6FKLBA7S5GXJE34.jpg');
+  background-image: url('banners/exhibits.svg');
 }
 
 .page-hero-visit {
-  background-image: url('https://www.kaigo-antenna.jp/uploads/spot_content/image2/4/large_thumb_webp_03.webp');
+  background-image: url('banners/visit.svg');
 }
 
 .page-hero-tickets {
@@ -549,7 +548,7 @@ nav a.active {
 }
 
 .page-hero-gallery {
-  background-image: url('https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=1800&q=85');
+  background-image: url('banners/gallery.svg');
 }
 
 /* ========== TWO COL ========== */
